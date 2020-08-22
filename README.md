@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**aarjap1/aarjap1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Know About me!
+### Hi there 👋 My Name Is Aarjap Piya
 
 - 🔭 I’m currently a undergraduate student
 - 🌱 I’m currently learning Java and Javascript
