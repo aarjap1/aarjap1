@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name Is Aarjap Piya
 
-- 🔭 I’m currently a undergraduate student
+- 🔭 I’m currently a Undergraduate Student majoring in Computer Science
 - 🌱 I’m currently learning Java and Javascript
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I love to play Guitar and often post guitar videos on my social media
@@ -15,6 +15,9 @@
 
 <br />
 
+<a href="https://github.com/aarjap1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Aarjap's github stats"/>
+</a>
 
 [twitter]: https://twitter.com/piyaaarjap
 [youtube]: https://www.youtube.com/channel/UCK5TT9tFSS_YXlL6tb1tVeg?view_as=subscriber
