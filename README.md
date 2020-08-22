@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 
 <br />
 
+
+[twitter]: https://twitter.com/piyaaarjap
+[youtube]: https://www.youtube.com/channel/UCK5TT9tFSS_YXlL6tb1tVeg?view_as=subscriber
+[instagram]: https://www.instagram.com/_aarjap_/
+[linkedin]: https://www.linkedin.com/in/aarjap-piya-277b9514a/
