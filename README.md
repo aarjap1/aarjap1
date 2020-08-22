@@ -12,15 +12,14 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 <a href="https://github.com/aarjap1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarjap1&show_icons=true&theme=light&line_height=27" alt="Aarjap's github stats"/>
+ <img align="left src="https://github-readme-stats.vercel.app/api?username=aarjap1&show_icons=true&theme=light&line_height=27" alt="Aarjap's github stats"/>
 </a>
 
 <a href="https://github.com/aarjap1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarjap1&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarjap1&theme=light&hide_langs_below=1" />
 </a>
 
 [twitter]: https://twitter.com/piyaaarjap
