@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I love to play Guitar and often post guitar videos on my social media
 
-<b>My Website:</b> <a href="https://aarjap-piya.000webhostapp.com">Link</a>
-
+<b>My Website:</b> <a href="https://aarjap-piya.000webhostapp.com">CLICK HERE</a>
+<b>My Resume:</b> <a href="https://aarjap-piya.000webhostapp.com/PiyaResume.pdf">CLICK HERE</a>
 ### Connect with me:
 
 
