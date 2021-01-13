@@ -1,8 +1,8 @@
 ### Hi there 👋 My Name Is Aarjap Piya
 
-- 🔭 I’m currently a Undergraduate Student majoring in Computer Science
-- 🌱 I’m currently learning Java and Javascript
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m a recent graduate from Northwest Missouri State University with a degree in Computer Science
+- 🌱 My major programming languages are Java, Javascript, HTML, CSS, C#, Swift and C++
+- 👯 I’m looking for a Full Stack software developer job
 - ⚡ Fun fact: I love to play Guitar and often post guitar videos on my social media
 - ➡️ [Check out my website](https://aarjap-piya.000webhostapp.com)
 
