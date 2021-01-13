@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Java and Javascript
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I love to play Guitar and often post guitar videos on my social media
-- 📝 [Resume](https://aarjap-piya.000webhostapp.com/PiyaResume.pdf)
 - ➡️ [Check out my website](https://aarjap-piya.000webhostapp.com)
 
 ### Connect with me:
