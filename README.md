@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-# 🏄‍♂️ Aarjap Piya
+# Aarjap Piya
 
 **`Full Stack Developer`**
 
 
 
 ### 📊 Stats
-
-![Aarjap's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarjap1&theme=dark" />
