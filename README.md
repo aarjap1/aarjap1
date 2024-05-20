@@ -4,7 +4,7 @@
 
 **`Full Stack Developer`**
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroz-paudel-053/)](https://www.linkedin.com/in/aarjap/)
 
 ### 📊 Stats
 
