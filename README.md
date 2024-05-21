@@ -15,3 +15,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarjap1&show_icons=true&theme=tokyonight&line_height=40" alt="Aarajp-github-stats"/>
 </a>
 
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarjap1&theme=dark" />
